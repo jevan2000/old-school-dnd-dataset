@@ -1,0 +1,8 @@
+2025-03-15 16:50:47: -- Analysis Started by User Command
+2025-03-15 16:50:47: L: Reading State File C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/_gsdata_/_file_state_v4._gs
+2025-03-15 16:50:47: L: State file does not exist: C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/_gsdata_/_file_state_v4._gs
+2025-03-15 16:50:48: R: Reading State File C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_file_state_v4._gs
+2025-03-15 16:50:48: R: State file does not exist: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_file_state_v4._gs
+2025-03-15 16:50:48: Changes: 2,773, Conflicts: 0, CopyTime: 0, FixState: 46, Errors: 0, All: 2821
+2025-03-15 16:50:48: Left to Right: Copy File: 2772 Delete File: 1 
+2025-03-15 16:50:48: -- Analysis Complete. Time 00:00:01, Speed: 2,821 files/s

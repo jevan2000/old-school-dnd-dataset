@@ -1,6 +1,3 @@
-_gsdata_/2025-0315-164537-AIMACHINE-DatasetCommit.log
-_gsdata_/2025-0315-165047-AIMACHINE-DatasetCommit.log
-_gsdata_/2025-0315-165057-AIMACHINE-DatasetCommit.log
-_gsdata_/2025-0315-165150-AIMACHINE-DatasetCommit.log
-_gsdata_/_file_state_v4._gs
-_gsdata_/_insync_v4.gsl
+*.log
+*._gs
+*.gsl

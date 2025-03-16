@@ -1,0 +1,678 @@
+Old School Dungeons and Dragons Dataset 
+Prompt List
+Permutations used to generate variety and flexibility in model training.
+
+[Race] Human (Male)
+full body shot Dungeons and Dragons male human character with {blonde, red, black, 
+brown} hair wielding a longsword, in the style of dungeons and dragons artwork--sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Human (Female)
+full body shot Dungeons and Dragons female human character with {blonde, red, black, 
+brown} hair wielding a longsword, in the style of dungeons and dragons artwork --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Elf (Male)
+full body shot Dungeons and Dragons male elf character with {brown, red, black, blonde} 
+hair wielding a longsword, in the style of dungeons and dragons artwork --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Elf (Female)
+full body shot Dungeons and Dragons female elf character with {brown, red, black, blonde} 
+hair wielding a longsword, in the style of dungeons and dragons artwork --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Half-Elf (Male)
+full body shot Dungeons and Dragons male half-elf character with {blonde, brown, black, 
+red} hair wielding a longsword, in the style of dungeons and dragons artwork, --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Half-Elf (Female)
+full body shot Dungeons and Dragons female half-elf character with {blonde, brown, black, 
+red} hair wielding a longsword, in the style of dungeons and dragons artwork, --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Dwarf (Male)
+full body shot Dungeons and Dragons male dwarf character with {brown, blonde, black, 
+red} hair wielding a longsword, in the style of dungeons and dragons artwork, --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Dwarf (Female)
+https://www.dndbeyond.com/avatars/thumbnails/6/254/420/618/636271781394265550.p
+ng full body shot Dungeons and Dragons female dwarf character with {brown, blonde, red, 
+black}  hair wielding a longsword, in the style of dungeons and dragons artwork, short, 
+dwarven, --iw 0.5 --v 6.1--sref https://s.mj.run/X05nqSdF-go
+
+[Race] Halfling (Male)
+full body shot Dungeons and Dragons male halfling character with {brown, black, blonde, 
+red} hair wielding a longsword, in the style of dungeons and dragons artwork --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Halfling (Female)
+full body shot Dungeons and Dragons female halfling character with {red, brown, blonde, 
+black} hair wielding a longsword, in the style of dungeons and dragons artwork, girl, young -
+-sref https://s.mj.run/X05nqSdF-go
+
+[Race] Gnome (Male)
+full body shot Dungeons and Dragons male gnome character with {blonde, white, brown, 
+red} hair wielding a longsword, in the style of dungeons and dragons artwork, short height, -
+-sref https://s.mj.run/X05nqSdF-go
+
+[Race] Gnome (Female)
+full body shot Dungeons and Dragons female gnome character with {blonde, white, brown, 
+red} hair wielding a longsword, in the style of dungeons and dragons artwork, short height, -
+-sref https://s.mj.run/X05nqSdF-go
+
+[Race] Tiefling (Male)
+full body shot Dungeons and Dragons male tiefling character with {red, purple} skin {black, 
+bald} hair wielding a longsword, in the style of dungeons and dragons artwork, horns, --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Tiefling (Female)
+full body shot Dungeons and Dragons female tiefling character with {red, purple} skin 
+{black, straight black} hair wielding a longsword, in the style of dungeons and dragons 
+artwork, horns, --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Dragonborn (Male)
+https://www.dndbeyond.com/avatars/thumbnails/6/340/420/618/636272677995471928.p
+ng full body shot Dungeons and Dragons male dragonborn character {red, blue, yellow, 
+purple} skin wielding a longsword, in the style of dungeons and dragons artwork --iw 0.5 --
+sref https://s.mj.run/X05nqSdF-go
+
+[Race] Dragonborn (Female)
+https://www.dndbeyond.com/avatars/thumbnails/6/340/420/618/636272677995471928.p
+ng full body shot Dungeons and Dragons female dragonborn character {red, blue, yellow, 
+purple} skin wielding a longsword, in the style of dungeons and dragons artwork --iw 0.5 --
+sref https://s.mj.run/X05nqSdF-go
+
+[Race] Half-Orc (Male)
+full body shot Dungeons and Dragons male half-orc character with {green, purple} skin 
+wielding a longsword, in the style of dungeons and dragons artwork. tribal clothing, orc 
+clothing, shirtless --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Half-Orc (Female)
+full body shot Dungeons and Dragons female half-orc character with {purple, green} skin 
+wielding a longsword, in the style of dungeons and dragons artwork. tribal clothing, orc 
+clothing, --sref https://s.mj.run/X05nqSdF-go
+[Race] Aasimar (Male)
+full body shot Dungeons and Dragons male aasimar character {short, long} {dark, light} hair 
+wielding a longsword, in the style of dungeons and dragons artwork, angelic --sref 
+https://s.mj.run/X05nqSdF-go
+silver skin variant:
+https://s.mj.run/tOeRtJ2YZ_Q full body shot Dungeons and Dragons male aasimar 
+character {short, perm} {dark, light} hair with silver gray white skin wielding a longsword, in 
+the style of dungeons and dragons artwork, angelic --sref https://s.mj.run/X05nqSdF-go --
+chaos 10 --sw 20 --iw 0.5
+
+opalescent skin variant:
+https://s.mj.run/tOeRtJ2YZ_Q full body shot Dungeons and Dragons male aasimar 
+character {short, perm} {dark, light} hair with opalescent pink skin wielding a longsword, in 
+the style of dungeons and dragons artwork, angelic --sref https://s.mj.run/X05nqSdF-go --
+chaos 10 --sw 20 --iw 0.5
+
+green skin variant:
+https://s.mj.run/tOeRtJ2YZ_Q full body shot Dungeons and Dragons male aasimar 
+character {short, perm} {dark, light} hair with green skin metallic freckles wielding a 
+longsword, in the style of dungeons and dragons artwork, angelic --sref 
+https://s.mj.run/X05nqSdF-go --chaos 10 --sw 20 --iw 0.5
+
+coopery red skin variant:
+https://s.mj.run/tOeRtJ2YZ_Q full body shot Dungeons and Dragons male aasimar 
+character {short, perm} {dark, light} hair with copper red skin metallic freckles wielding a 
+longsword, in the style of dungeons and dragons artwork, angelic --sref 
+https://s.mj.run/X05nqSdF-go --chaos 10 --sw 20 --iw 0.5
+
+
+
+
+
+[Race] Aasimar (Female)
+full body shot Dungeons and Dragons female aasimar character {short, long} {dark, light} 
+hair wielding a longsword, in the style of dungeons and dragons artwork, angelic  --sref 
+https://s.mj.run/X05nqSdF-go
+
+silver skin variant:
+https://s.mj.run/tOeRtJ2YZ_Q full body shot Dungeons and Dragons female aasimar 
+character {short, perm} {dark, light} hair with silver gray white skin wielding a longsword, in 
+the style of dungeons and dragons artwork, angelic --sref https://s.mj.run/X05nqSdF-go --
+chaos 10 --sw 20 --iw 0.5
+
+opalescent skin variant:
+https://s.mj.run/tOeRtJ2YZ_Q full body shot Dungeons and Dragons female aasimar 
+character {short, perm} {dark, light} hair with opalescent pink skin wielding a longsword, in 
+the style of dungeons and dragons artwork, angelic --sref https://s.mj.run/X05nqSdF-go --
+chaos 10 --sw 20 --iw 0.5
+
+green skin variant:
+https://s.mj.run/tOeRtJ2YZ_Q full body shot Dungeons and Dragons female aasimar 
+character {short, perm} {dark, light} hair with green skin metallic freckles wielding a 
+longsword, in the style of dungeons and dragons artwork, angelic --sref 
+https://s.mj.run/X05nqSdF-go --chaos 10 --sw 20 --iw 0.5
+
+coopery red skin variant:
+https://s.mj.run/tOeRtJ2YZ_Q full body shot Dungeons and Dragons female aasimar 
+character {short, perm} {dark, light} hair with copper red skin metallic freckles wielding a 
+longsword, in the style of dungeons and dragons artwork, angelic --sref 
+https://s.mj.run/X05nqSdF-go --chaos 10 --sw 20 --iw 0.5
+
+
+
+[Race] Air Genasi (Male)
+full body shot Dungeons and Dragons male air genasi character with blue skin {short, low 
+fade} {light, dark} hair wielding a longsword, in the style of dungeons and dragons artwork --
+chaos 10 --sw 20  --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Air Genasi (Female)
+full body shot Dungeons and Dragons female air genasi character with blue skin {short, 
+spiked} {light, dark} hair wielding a longsword, in the style of dungeons and dragons artwork 
+--chaos 10 --sw 20 --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Earth Genasi (Male)
+full body shot Dungeons and Dragons male earth genasi character with brown skin {short, 
+low fade} {light, dark} hair wielding a longsword, in the style of dungeons and dragons 
+artwork --chaos 10 --sw 20  --sref https://s.mj.run/X05nqSdF-go
+[Race] Earth Genasi (Female)
+full body shot Dungeons and Dragons female earth genasi character with brown skin {short, 
+mowhawk} {light, dark} hair wielding a longsword, in the style of dungeons and dragons 
+artwork --chaos 10 --sw 20  --sref https://s.mj.run/X05nqSdF-go
+[Race] Fire Genasi (Male)
+full body shot Dungeons and Dragons male fire genasi character with red skin {short, 
+mohawk} {flame, fire} hair wielding a longsword, in the style of dungeons and dragons 
+artwork --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Fire Genasi (Female)
+full body shot Dungeons and Dragons female fire genasi character with deep crimson red 
+skin {short, mohawk} {flame, fire} hair wielding a longsword, in the style of dungeons and 
+dragons artwork --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Water Genasi (Male)
+full body shot Dungeons and Dragons male water genasi character with deep blue colored 
+skin {short, mohawk} {dark, light} hair wielding a longsword, in the style of dungeons and 
+dragons artwork, pirate clothing,--sref https://s.mj.run/X05nqSdF-go
+
+[Race] Water Genasi (Female)
+full body shot Dungeons and Dragons female water genasi character with deep blue 
+colored skin {short, mohawk} {dark, light} hair wielding a longsword, in the style of 
+dungeons and dragons artwork, pirate clothing, --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Goblin (Male)
+full body shot Dungeons and Dragons male goblin character with {straight, ponytail} {oily, 
+white} hair wielding a longsword, in the style of dungeons and dragons artwork, brown 
+leather shoulder pads and faulds --sref https://s.mj.run/X05nqSdF-go
+[Race] Goblin (Female)
+full body shot Dungeons and Dragons female goblin character with green skin {straight, 
+ponytail} {oily, white} hair wielding a longsword, in the style of dungeons and dragons 
+artwork, brown leather shoulder pads and faulds --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Hobgoblin (Male)
+full body shot Dungeons and Dragons male hobgoblin character with deep crimson red 
+skin {straight, ponytail} {oily, white} hair wielding a longsword, in the style of dungeons and 
+dragons artwork, brown leather shoulder pads and faulds --sref https://s.mj.run/X05nqSdF-
+go
+
+[Race] Hobgoblin (Female)
+https://www.dndbeyond.com/avatars/thumbnails/25746/853/420/618/637880558315531
+201.png full body shot Dungeons and Dragons female hobgoblin character with deep 
+crimson red skin {straight, ponytail} {oily, white} hair wielding a longsword, in the style of 
+dungeons and dragons artwork, brown leather shoulder pads and faulds --iw 0.3 --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Bugbear (Male)
+full body shot Dungeons and Dragons male bugbear character with {brown, black, red, 
+purple} fur wielding a longsword, in the style of dungeons and dragons artwork --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Bugbear (Female)
+full body shot Dungeons and Dragons female bugbear character with {brown, black, red, 
+purple} fur wielding a longsword, in the style of dungeons and dragons artwork, --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Orc (Male)
+full body shot Dungeons and Dragons male orc character with long braided black hair and 
+green skin wielding a longsword, in the style of dungeons and dragons artwork, loin cloth, 
+shoulder pads, shirtless, green muscles, green abs, --no chestplate --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Orc (Female)
+full body shot Dungeons and Dragons female orc character with long braided black hair 
+and {green, red, brown, white} skin wielding a longsword, in the style of dungeons and 
+dragons artwork, leather crop top, loin cloth, shoulder pads, shirtless, muscles, abs, --no 
+chestplate --v 6.1 --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Kobold (Male)
+full body shot Dungeons and Dragons male kobold character with {tan, red, purple} scale 
+skin wielding a longsword, in the style of dungeons and dragons artwork --no chestplate --
+sref https://s.mj.run/X05nqSdF-go
+[Race] Kobold (Female)
+full body shot Dungeons and Dragons female kobold character with {tan, red, purple} scale 
+skin wielding a longsword, in the style of dungeons and dragons artwork --no chestplate --v 
+6.1--sref https://s.mj.run/X05nqSdF-go
+[Race] Tabaxi (Male)
+full body shot Dungeons and Dragons male tabaxi character with {deep crimson red, 
+yellow} fur wielding a longsword, in the style of dungeons and dragons artwork --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Tabaxi (Female)
+full body shot Dungeons and Dragons female tabaxi character with {deep crimson red, 
+yellow} fur wielding a longsword, in the style of dungeons and dragons artwork --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Lizardfolk (Male)
+full body shot Dungeons and Dragons male lizardfolk character with {green, red, yellow, 
+purple} skin wielding a longsword, in the style of dungeons and dragons artwork, scale 
+armor --sref https://s.mj.run/X05nqSdF-go
+[Race] Lizardfolk (Female)
+full body shot Dungeons and Dragons female lizardfolk character with {green, red, yellow, 
+purple} skin wielding a longsword, in the style of dungeons and dragons artwork, scale 
+armor --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Firbolg (Male)
+https://static.wikia.nocookie.net/forgottenrealms/images/7/79/Firbolg-
+5e.jpg/revision/latest?cb=20180623050202 full body shot Dungeons and Dragons male 
+firbolg with pale {blue, brown, green} skin character wielding a longsword, in the style of 
+dungeons and dragons artwork --iw 0.5 --v 6.1--sref https://s.mj.run/X05nqSdF-go
+[Race] Firbolg (Female)
+https://static.wikia.nocookie.net/forgottenrealms/images/7/79/Firbolg-
+5e.jpg/revision/latest?cb=20180623050202 full body shot Dungeons and Dragons female 
+firbolg with pale {blue, brown, green} skin character wielding a longsword, in the style of 
+dungeons and dragons artwork --iw 0.5 --v 6.1--sref https://s.mj.run/X05nqSdF-go
+
+[Race] Goliath (Male)
+https://www.dndbeyond.com/avatars/thumbnails/7/620/420/618/636286749289682134.p
+ng full body shot Dungeons and Dragons male goliath character with pale skin wielding a 
+longsword, in the style of dungeons and dragons artwork --iw 0.1 --no hair --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Goliath (Female)
+https://www.dndbeyond.com/avatars/thumbnails/7/620/420/618/636286749289682134.p
+ng full body shot Dungeons and Dragons female goliath character with pale skin wielding a 
+longsword, in the style of dungeons and dragons artwork, bald, --iw 0.1 --no hair --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Kenku (Male)
+full body shot Dungeons and Dragons male kenku character with {black, blue, red, yellow} 
+feathers wielding a longsword, in the style of dungeons and dragons artwork --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Kenku (Female)
+full body shot Dungeons and Dragons female kenku character with {black, blue, red, 
+yellow} feathers wielding a longsword, in the style of dungeons and dragons artwork, beck, 
+bird face, feathers, --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Tortle (Male)
+full body shot Dungeons and Dragons male tortle character with {green, brown, tan} skin 
+wielding a longsword, in the style of dungeons and dragons artwork, shell armor, turtle, --
+sref https://s.mj.run/X05nqSdF-go
+[Race] Tortle (Female)
+full body shot Dungeons and Dragons female tortle character with {green, brown, tan} skin 
+wielding a longsword, in the style of dungeons and dragons artwork, shell armor, turtle 
+person, turtle face --sref https://s.mj.run/X05nqSdF-go
+(Alternative):
+full body shot Dungeons and Dragons female tortle character with {green, brown, tan} skin 
+wielding a longsword, in the style of dungeons and dragons artwork, shell armor, turtle 
+person, turtle face --p m7297356129221214237 --s 250 --sref https://s.mj.run/X05nqSdF-
+go
+
+[Race] Yuan-Ti Pureblood (Male)
+full body shot Dungeons and Dragons male yuan-ti character with {green, red, purple} skin 
+wielding a longsword, in the style of dungeons and dragons artwork, shell armor, snake 
+body, snake face, snake person --sref https://s.mj.run/X05nqSdF-go
+(Alternative):
+https://static.wikia.nocookie.net/blackbandos-homebrew/images/5/57/Yuan-
+Ti_Abomination.jpg/revision/latest?cb=20161128151922 full body shot Dungeons and 
+Dragons male yuan-ti character with {green, red, purple} skin wielding a longsword, in the 
+style of dungeons and dragons artwork, shell armor, snake body, snake face, snake person 
+--profile o5uotn9 --stylize 250 --iw 0.2 --v 6.1
+[Race] Yuan-Ti Pureblood (Female)
+full body shot Dungeons and Dragons female yuan-ti character with {green, red, purple} 
+skin wielding a longsword, in the style of dungeons and dragons artwork, shell armor, snake 
+body, snake face, snake person --v 6.1 --sref https://s.mj.run/X05nqSdF-go
+(Alternative):
+https://static.wikia.nocookie.net/blackbandos-homebrew/images/5/57/Yuan-
+Ti_Abomination.jpg/revision/latest?cb=20161128151922 full body shot Dungeons and 
+Dragons female yuan-ti character with {green, red, purple} skin wielding a longsword, in the 
+style of dungeons and dragons artwork, shell armor, snake body, snake face, snake person 
+--profile o5uotn9 --stylize 250 --iw 0.2 --v 6.1
+
+[Race] Changeling (Male)
+https://static.wikia.nocookie.net/forgottenrealms/images/4/47/Changeling_MotM.png/revi
+sion/latest?cb=20230822130023 full body shot Dungeons and Dragons male changeling 
+character with pale white skin and white {long, short, mohawk} hair wielding a longsword, 
+in the style of dungeons and dragons artwork --iw 0.2 --chaos 10 --sw 20  --sref 
+https://s.mj.run/X05nqSdF-go
+(Alternative):
+https://static.wikia.nocookie.net/forgottenrealms/images/4/47/Changeling_MotM.png/revi
+sion/latest?cb=20230822130023 full body shot Dungeons and Dragons male changeling 
+character with pale white skin and white {long, short, mohawk} hair wielding a longsword, 
+in the style of dungeons and dragons artwork --iw 0.2 --profile o5uotn9 --stylize 250
+[Race] Changeling (Female)
+https://static.wikia.nocookie.net/forgottenrealms/images/4/47/Changeling_MotM.png/revi
+sion/latest?cb=20230822130023 full body shot Dungeons and Dragons female changeling 
+character with pale white skin and white {long, short, mohawk} hair wielding a longsword, 
+in the style of dungeons and dragons artwork --iw 0.2 --chaos 10 --sw 20 --sref 
+https://s.mj.run/X05nqSdF-go
+(Alternative):
+https://static.wikia.nocookie.net/forgottenrealms/images/4/47/Changeling_MotM.png/revi
+sion/latest?cb=20230822130023 full body shot Dungeons and Dragons female changeling 
+character with pale white skin and white {long, short, mohawk} hair wielding a longsword, 
+in the style of dungeons and dragons artwork --iw 0.2 --profile o5uotn9 --stylize 250
+
+[Race] Shifter (Male)
+https://arcaneeye.com/wp-content/uploads/2021/07/path-of-the-beast-1.png full body 
+shot Dungeons and Dragons male shifter character with pale brown skin and dark {long, 
+short, mohawk} hair wielding a longsword, in the style of dungeons and dragons artwork --
+iw 0.2 --sref https://s.mj.run/X05nqSdF-go
+[Race] Shifter (Female)
+https://arcaneeye.com/wp-content/uploads/2021/07/path-of-the-beast-1.png full body 
+shot Dungeons and Dragons female shifter character with pale brown skin and dark 
+mohawk hair wielding a longsword, in the style of dungeons and dragons artwork, minimal 
+loosely wrapped clothing, crop top, --iw 0.2 --v 6.1--sref https://s.mj.run/X05nqSdF-go
+
+[Race] Kalashtar (Male)
+full body shot Dungeons and Dragons male kalashtar character with pale white skin and 
+white hair wielding a longsword, in the style of dungeons and dragons artwork, spirit, 
+ghostly, --no blue --sref https://s.mj.run/X05nqSdF-go
+[Race] Kalashtar (Female)
+full body shot Dungeons and Dragons female kalashtar character with pale white skin and 
+white hair wielding a longsword, in the style of dungeons and dragons artwork, spirit, 
+ghostly, --no blue --sref https://s.mj.run/X05nqSdF-go
+
+
+[Race] Warforged (Male)
+https://static.wikia.nocookie.net/eberron/images/0/09/Warforged3e.jpg/revision/latest/sca
+le-to-width/360?cb=20220414180349 full body shot Dungeons and Dragons warforged 
+character wielding a longsword, in the style of dungeons and dragons artwork --iw 0.2 --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Warforged (Female)
+https://static.wikia.nocookie.net/eberron/images/0/09/Warforged3e.jpg/revision/latest/sca
+le-to-width/360?cb=20220414180349 full body shot Dungeons and Dragons female 
+warforged character wielding a longsword, in the style of dungeons and dragons artwork --
+iw 0.2 --sref https://s.mj.run/X05nqSdF-go
+
+
+[Race] Vedalken (Male)
+https://i.pinimg.com/550x/76/4d/09/764d097e44dc125a6dac5e5ae12591e9.jpg full body 
+shot Dungeons and Dragons vedalken character with blue skin wielding a longsword, in the 
+style of dungeons and dragons artwork, bald --no hair --iw 0.3 --v 6.1 --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Vedalken (Female)
+https://i.pinimg.com/550x/76/4d/09/764d097e44dc125a6dac5e5ae12591e9.jpg full body 
+shot Dungeons and Dragons female vedalken character with blue skin wielding a 
+longsword, in the style of dungeons and dragons artwork, bald --no hair --iw 0.3 --v 6.1 --
+sref https://s.mj.run/X05nqSdF-go
+
+[Race] Simic Hybrid (Male)
+https://velantis.wordpress.com/wp-content/uploads/2020/01/simic-hybrid.jpg full body 
+shot Dungeons and Dragons simic hybrid character with pale white skin with {crab, squid 
+tentacles, fins} arms protruding from back wielding a longsword, in the style of dungeons 
+and dragons artwork --iw 0.4 --v 6.1 --no hair --sref https://s.mj.run/X05nqSdF-go
+[Race] Simic Hybrid (Female)
+https://velantis.wordpress.com/wp-content/uploads/2020/01/simic-hybrid.jpg full body 
+shot Dungeons and Dragons female simic hybrid character with pale white skin with {crab, 
+squid tentacles, fins} arms protruding from back wielding a longsword, in the style of 
+dungeons and dragons artwork --iw 0.4 --v 6.1 --no hair --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Leonin (Male)
+full body shot Dungeons and Dragons leonin character with {gold, red} fur wielding a 
+longsword, in the style of dungeons and dragons artwork, --no shirt, armor, chestplate --
+sref https://s.mj.run/X05nqSdF-go
+[Race] Leonin (Female)
+full body shot Dungeons and Dragons female leonin character with {gold, red} fur wielding a 
+longsword, in the style of dungeons and dragons artwork, lioness, lion face, lion body, 
+claws --no shirt, armor, chestplate --v 6.1 --sref https://s.mj.run/X05nqSdF-go
+
+
+[Race] Satyr (Male)
+https://www.gmbinder.com/images/gvKDaDd.jpg full body shot Dungeons and Dragons 
+satyr character wielding a longsword, in the style of dungeons and dragons artwork, curled 
+horns, --iw 0.5 --sref https://s.mj.run/X05nqSdF-go
+[Race] Satyr (Female)
+https://www.gmbinder.com/images/gvKDaDd.jpg full body shot Dungeons and Dragons 
+satyr character wielding a longsword, in the style of dungeons and dragons artwork, curled 
+horns, --iw 0.5 --sref https://s.mj.run/X05nqSdF-go
+
+
+[Race] Fairy (Male)
+full body shot Dungeons and Dragons male fairy character with {red, dark, blonde, white} 
+hair wielding a longsword, in the style of dungeons and dragons artwork, butterfly wings, --
+sref https://s.mj.run/X05nqSdF-go
+[Race] Fairy (Female)
+full body shot Dungeons and Dragons female fairy character with {red, dark, blonde, white} 
+hair wielding a longsword, in the style of dungeons and dragons artwork, butterfly wings, --
+sref https://s.mj.run/X05nqSdF-go
+
+
+[Race] Harengon (Male)
+full body shot Dungeons and Dragons male rabbit character with {gray, white, red, yellow,} 
+fur wielding a longsword, in the style of dungeons and dragons artwork, ragged clothing, --
+sref https://s.mj.run/X05nqSdF-go
+[Race] Harengon (Female)
+full body shot Dungeons and Dragons female rabbit character with {gray, white, red, 
+yellow,} fur wielding a longsword, in the style of dungeons and dragons artwork, ragged 
+clothing, rabbit face, --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Grung (Male)
+full body shot Dungeons and Dragons frog character with {green, red, yellow, purple} skin 
+wielding a longsword, in the style of dungeons and dragons artwork, frog face, frog hands, --
+sref https://s.mj.run/X05nqSdF-go
+[Race] Grung (Female)
+full body shot Dungeons and Dragons female frog character with {green, red, yellow, 
+purple} skin wielding a longsword, in the style of dungeons and dragons artwork, frog face, 
+frog hands, bald --no hair --sref https://s.mj.run/X05nqSdF-go
+
+
+[Race] Plasmoid (Male)
+https://cdn.midjourney.com/b86dd37c-f38e-4c30-b5c0-d549dd070352/0_0.png full body 
+shot Dungeons and Dragons plasmoid character wielding a longsword, in the style of 
+dungeons and dragons artwork, faceless, blob, see through, featureless, transparent, --
+chaos 5 --iw 0.8 --sw 0.2 --no face, features, mouth, nose, eyes, ears, --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Plasmoid (Female)
+https://cdn.midjourney.com/b86dd37c-f38e-4c30-b5c0-d549dd070352/0_0.png full body 
+shot Dungeons and Dragons female plasmoid character wielding a longsword, in the style 
+of dungeons and dragons artwork, faceless, blob, see through, featureless, transparent, --
+no face, face, features, features, mouth, mouth, nose, nose, eyes, eyes, ears, --sw 1 --iw 
+0.2 --v 6.1 --sref https://s.mj.run/X05nqSdF-go
+
+
+[Race] Autognome (Male)
+full body shot Dungeons and Dragons friendly small short steampunk robot character 
+wielding a longsword, in the style of dungeons and dragons artwork, steampunk, gears, 
+cogs, robot face, robotic, --chaos 5 --sw 50 --v 6.1 --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Autognome (Female)
+full body shot Dungeons and Dragons friendly small short female steampunk robot 
+character wielding a longsword, in the style of dungeons and dragons artwork, steampunk, 
+gears, cogs, robot face, robotic, --chaos 5 --sw 50 --v 6.1 --sref https://s.mj.run/X05nqSdF-
+go
+
+[Race] Githyanki (Male)
+https://external-
+preview.redd.it/8gnjTuMyXmntkrZ4DH5kiznQMhG11rTn1ev9IXE3N24.png?auto=webp&s=3
+737a0fb719de949d02201e420a79f04d1667f05 full body shot Dungeons and Dragons male 
+githyanki character with green skin wielding a longsword, in the style of dungeons and 
+dragons artwork --chaos 10 --sw 50 --iw 0.2 --v 6.1--sref https://s.mj.run/X05nqSdF-go
+[Race] Githyanki (Female)
+https://external-
+preview.redd.it/8gnjTuMyXmntkrZ4DH5kiznQMhG11rTn1ev9IXE3N24.png?auto=webp&s=3
+737a0fb719de949d02201e420a79f04d1667f05 full body shot Dungeons and Dragons male 
+female githyanki character with green skin wielding a longsword, in the style of dungeons 
+and dragons artwork --chaos 10 --sw 50 --iw 0.2 --v 6.1--sref https://s.mj.run/X05nqSdF-go
+
+
+[Race] Githzerai (Male)
+https://static.wikia.nocookie.net/forgottenrealms/images/c/cc/Monster_Manual_5e_-
+_Githzerai_-_p161.jpg/revision/latest?cb=20200229183231 full body shot Dungeons and 
+Dragons githzerai character with pale brown skin wielding a longsword, in the style of 
+dungeons and dragons artwork, bald --no hair --chaos 10 --sw 50 --iw 0.7 --v 6.1 --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Githzerai (Female)
+https://static.wikia.nocookie.net/forgottenrealms/images/c/cc/Monster_Manual_5e_-
+_Githzerai_-_p161.jpg/revision/latest?cb=20200229183231 full body shot Dungeons and 
+Dragons female githzerai character with pale brown skin wielding a longsword, in the style 
+of dungeons and dragons artwork, bald --no hair --chaos 10 --sw 50 --iw 0.7 --v 6.1 --sref 
+https://s.mj.run/X05nqSdF-go
+
+
+[Race] Minotaur (Male)
+full body shot Dungeons and Dragons minotaur character wielding a longsword, in the style 
+of dungeons and dragons artwork, shoulder pads, large horns, --no chestplate, shirt, chest 
+armor, --chaos 10 --sw 50  --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Minotaur (Female)
+https://cdn.midjourney.com/82ace0e8-781d-40ca-8b99-4e4abb59d4fe/0_3.png full body 
+shot Dungeons and Dragons female minotaur character wielding a longsword, in the style 
+of dungeons and dragons artwork, shoulder pads, large horns, minotaur body, minotaur 
+head, fur body, loose clothing wraps, --no nudity  --chaos 10 --sw 50 --iw 0.7 --v 6.1 --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Centaur (Male)
+https://s.mj.run/cCAWoQ5-v-g Centaur, in the style of dungeons and dragons artwork --sw 
+20 --iw 1.5 --v 6.1 --sref https://s.mj.run/X05nqSdF-go
+[Race] Centaur (Female)
+https://s.mj.run/cCAWoQ5-v-g Centaur, in the style of dungeons and dragons artwork, 
+female --no nudity --sw 20 --iw 1.5 --v 6.1 --sref https://s.mj.run/X05nqSdF-go
+
+
+[Race] Triton (Male)
+https://www.dndbeyond.com/avatars/thumbnails/25746/889/420/618/637880558374006
+549.png full body shot Dungeons and Dragons triton character with {green, blue} skin 
+wielding a longsword, in the style of dungeons and dragons artwork, webbed hands, 
+webbed feet, small fish fins on legs, fish fins, human face, --chaos 10 --sw 20 --iw 0.3 --v 
+6.1 --sref https://s.mj.run/X05nqSdF-go
+[Race] Triton (Female)
+https://www.dndbeyond.com/avatars/thumbnails/25746/889/420/618/637880558374006
+549.png full body shot Dungeons and Dragons triton character with {green, blue} skin 
+wielding a longsword, in the style of dungeons and dragons artwork, webbed hands, 
+webbed feet, small fish fins on legs, fish fins, human face, --chaos 10 --sw 20 --iw 0.3 --v 
+6.1 --sref https://s.mj.run/X05nqSdF-go
+
+
+[Race] Locathah (Male)
+https://static.wikia.nocookie.net/forgottenrealms/images/0/00/Locathah-
+5e.jpg/revision/latest?cb=20210305203002 full body shot Dungeons and Dragons locathah 
+character wielding a longsword, in the style of dungeons and dragons artwork, fish, fish 
+face, webbed feet, webbed hands, --chaos 10 --sw 20 --iw 0.3  --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Locathah (Female)
+https://static.wikia.nocookie.net/forgottenrealms/images/0/00/Locathah-
+5e.jpg/revision/latest?cb=20210305203002 full body shot Dungeons and Dragons female 
+locathah character wielding a longsword, in the style of dungeons and dragons artwork, 
+fish, fish face, webbed feet, webbed hands, --chaos 10 --sw 20 --iw 0.3  --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Verdan (Male)
+full body shot Dungeons and Dragons tall male hobgoblin character with {pale white, jade, 
+ebony} wielding a longsword, in the style of dungeons and dragons artwork, human face, 
+goblin ears, bald, --chaos 10 --sw 20  --no hair --sref https://s.mj.run/X05nqSdF-go 
+
+[Race] Verdan (Female)
+full body shot Dungeons and Dragons tall female hobgoblin character with {pale white, 
+jade, ebony} wielding a longsword, in the style of dungeons and dragons artwork, human 
+face, goblin ears, bald, --chaos 10 --sw 20  --no hair --sref https://s.mj.run/X05nqSdF-go 
+
+
+[Race] Loxodon (Male)
+full body shot Dungeons and Dragons loxodon character wielding a longsword, in the style 
+of dungeons and dragons artwork, elephant head, elephant trunk, --chaos 10 --sw 20  --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Loxodon (Female)
+full body shot Dungeons and Dragons loxodon character wielding a longsword, in the style 
+of dungeons and dragons artwork, elephant head, elephant trunk, female, --chaos 10 --sw 
+20 --sref https://s.mj.run/X05nqSdF-go
+
+[Race] Dhampir (Male)
+full body shot Dungeons and Dragons male vampire character with pale white skin dark 
+{short, long, mohawk}  hair wielding a longsword, human face, in the style of dungeons and 
+dragons artwork --chaos 10 --sw 20 --no blue --sref https://s.mj.run/X05nqSdF-go
+[Race] Dhampir (Female)
+full body shot Dungeons and Dragons female vampire character with pale white skin dark 
+{short, long, mohawk}  hair wielding a longsword, human face, in the style of dungeons and 
+dragons artwork --chaos 10 --sw 20 --no blue --sref https://s.mj.run/X05nqSdF-go
+
+
+[Race] Reborn (Male)
+full body shot Dungeons and Dragons male white skeletal character wielding a longsword, 
+in the style of dungeons and dragons artwork, human eyes, --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Reborn (Female)
+full body shot Dungeons and Dragons female white skeletal character wielding a 
+longsword, in the style of dungeons and dragons artwork, human eyes, --sref 
+https://s.mj.run/X05nqSdF-go
+
+
+[Race] Hexblood (Male)
+https://static.wikitide.net/criticalrolewiki/8/84/Hexblood.png full body shot Dungeons and 
+Dragons male hexblood character with purple skin and glowing eyes wielding a longsword, 
+in the style of dungeons and dragons artwork --chaos 10 --sw 20 --iw 0.3  --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Hexblood (Female)
+https://static.wikitide.net/criticalrolewiki/8/84/Hexblood.png full body shot Dungeons and 
+Dragons female hexblood character with purple skin and glowing eyes wielding a 
+longsword, in the style of dungeons and dragons artwork --chaos 10 --sw 20 --iw 0.3  --sref 
+https://s.mj.run/X05nqSdF-go
+
+
+[Race] Owlin (Male)
+full body shot Dungeons and Dragons owlin character wielding a longsword, in the style of 
+dungeons and dragons artwork --chaos 10 --sw 20  --sref https://s.mj.run/X05nqSdF-go
+[Race] Owlin (Female)
+full body shot Dungeons and Dragons female owlin character wielding a longsword, in the 
+style of dungeons and dragons artwork --chaos 10 --sw 20  --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Astral Elf (Male)
+full body shot Dungeons and Dragons astral elf character with blue skin wielding a 
+longsword, in the style of dungeons and dragons artwork  --chaos 10 --sw 20  --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Astral Elf (Female)
+full body shot Dungeons and Dragons female astral elf character with blue skin wielding a 
+longsword, in the style of dungeons and dragons artwork  --chaos 10 --sw 20  --sref 
+https://s.mj.run/X05nqSdF-go
+
+[Race] Hadozee (Male)
+full body shot Dungeons and Dragons hadozee character wielding a longsword, in the style 
+of dungeons and dragons artwork, face of monkey, --chaos 10 --sw 20  --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Hadozee (Female)
+full body shot Dungeons and Dragons hadozee character wielding a longsword, in the style 
+of dungeons and dragons artwork, face of monkey, female, --chaos 10 --sw 20  --sref 
+https://s.mj.run/X05nqSdF-go
+
+
+[Race] Thri-Kreen (Male)
+https://5e.tools/img/bestiary/BAM/Thri-kreen%20Hunter.webp full body shot Dungeons 
+and Dragons thri-kreen character wielding a longsword, in the style of dungeons and 
+dragons artwork, ant face, insect face, quad arms, --chaos 10 --sw 20 --iw 0.3 --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Thri-Kreen (Female)
+https://5e.tools/img/bestiary/BAM/Thri-kreen%20Hunter.webp full body shot Dungeons 
+and Dragons thri-kreen character wielding a longsword, in the style of dungeons and 
+dragons artwork, ant face, insect face, quad arms, --chaos 10 --sw 20 --iw 0.3 --sref 
+https://s.mj.run/X05nqSdF-go
+
+
+[Race] Ardling (Male)
+full body shot Dungeons and Dragons ardlings character wielding a longsword, in the style 
+of dungeons and dragons artwork, crocodile face, crocodile head, --chaos 10 --sw 20 --sref 
+https://s.mj.run/X05nqSdF-go
+[Race] Ardling (Female)
+full body shot Dungeons and Dragons ardlings character wielding a longsword, in the style 
+of dungeons and dragons artwork, crocodile face, crocodile head, female, --chaos 10 --sw 
+20 --no hair --sref https://s.mj.run/X05nqSdF-go
+
+
+[Race] Duergar (Male)
+https://www.dndbeyond.com/avatars/thumbnails/25746/825/420/618/637880558271777
+313.png full body shot Dungeons and Dragons dwarf duergar character with purple skin 
+wielding a longsword, in the style of dungeons and dragons artwork --chaos 10 --sw 20 --iw 
+0.3 --sref https://s.mj.run/X05nqSdF-go
+[Race] Duergar (Female)
+https://www.dndbeyond.com/avatars/thumbnails/25746/825/420/618/637880558271777
+313.png full body shot Dungeons and Dragons female dwarf duergar character with purple 
+skin wielding a longsword, in the style of dungeons and dragons artwork, short height, --
+chaos 10 --sw 20 --iw 0.3 --no beard --sref https://s.mj.run/X05nqSdF-go
+[Race] Ursine (Male)
+Ursine (bear) is a custom homebrew race
+https://s.mj.run/pKWTvUFc3jk full body shot Dungeons and Dragons male bear character 
+with {black, brown, gold} fur wielding a longsword, in the style of dungeons and dragons 
+artwork, short height, --chaos 10 --sw 20 --iw 0.3 --sref https://s.mj.run/X05nqSdF-go
+[Race] Ursine (Female)
+https://s.mj.run/pKWTvUFc3jk full body shot Dungeons and Dragons female bear character 
+with {black, brown, gold} fur wielding a longsword, in the style of dungeons and dragons 
+artwork, short height, bear face --chaos 10 --sw 20 --iw 0.3 --sref 
+https://s.mj.run/X05nqSdF-go
+

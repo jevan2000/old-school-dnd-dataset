@@ -1,0 +1,13 @@
+2025-04-04 22:18:28: == Sync Started by User Command
+2025-04-04 22:18:28: Start only 2 threads, limited by tasks to run
+2025-04-04 22:18:28: ConnectCloned connected to file:///~jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom
+2025-04-04 22:18:28: ConnectCloned connected to file:///~jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom
+2025-04-04 22:18:28: ConnectCloned connected to file:///~jacob/Documents/GitHub/OldSchoolDNDDataset
+2025-04-04 22:18:28: ConnectCloned connected to file:///~jacob/Documents/GitHub/OldSchoolDNDDataset
+2025-04-04 22:18:28: Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/captions.json' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/captions.json' (37,191)
+2025-04-04 22:18:28: Close Modified Folder (mod-time, acl): /Aasimar/aasimarmale
+2025-04-04 22:18:30: Delete File C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Githyanki/githyankifemale/githyankifemale_ (23).png
+2025-04-04 22:18:30: Close Modified Folder (mod-time, acl): /Githyanki/githyankifemale
+2025-04-04 22:18:30: Save State File C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/_gsdata_/_file_state_v4._gs
+2025-04-04 22:18:31: Save State File C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_file_state_v4._gs
+2025-04-04 22:18:31: == Sync Complete. Time: 00:00:03, Speed: 0.00/s, OK: 132, Errors: 0

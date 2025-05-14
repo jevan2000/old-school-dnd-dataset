@@ -1,0 +1,607 @@
+2025-05-13 21:37:10: == Sync Started by User Command
+2025-05-13 21:37:10: ConnectCloned connected to file:///~jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom
+2025-05-13 21:37:10: ConnectCloned connected to file:///~jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom
+2025-05-13 21:37:10: ConnectCloned connected to file:///~jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom
+2025-05-13 21:37:10: ConnectCloned connected to file:///~jacob/Documents/GitHub/OldSchoolDNDDataset
+2025-05-13 21:37:10: ConnectCloned connected to file:///~jacob/Documents/GitHub/OldSchoolDNDDataset
+2025-05-13 21:37:10: ConnectCloned connected to file:///~jacob/Documents/GitHub/OldSchoolDNDDataset
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (22).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (22).png' (1,681,036)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (24).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (24).png' (1,718,285)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (23).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (23).png' (1,620,386)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (23).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (23).png' (1,620,386)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (25).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (25).png' (1,800,448)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (22).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (22).png' (1,681,036)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (26).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (26).png' (1,703,380)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (24).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (24).png' (1,718,285)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (27).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (27).png' (1,875,934)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (25).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (25).png' (1,800,448)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (28).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (28).png' (2,007,098)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (26).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (26).png' (1,703,380)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (29).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (29).png' (1,760,771)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (27).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (27).png' (1,875,934)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (30).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (30).png' (1,819,342)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (28).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (28).png' (2,007,098)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (31).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (31).png' (1,818,998)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (30).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (30).png' (1,819,342)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (29).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (29).png' (1,760,771)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (32).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (32).png' (1,689,447)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (33).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (33).png' (1,980,541)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (31).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (31).png' (1,818,998)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (34).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (34).png' (1,834,519)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (32).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (32).png' (1,689,447)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (33).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (33).png' (1,980,541)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (36).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (36).png' (1,942,899)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (35).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (35).png' (1,872,730)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (34).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (34).png' (1,834,519)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (37).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (37).png' (1,904,706)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (36).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (36).png' (1,942,899)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (38).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (38).png' (1,957,862)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (37).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (37).png' (1,904,706)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (35).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (35).png' (1,872,730)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (149).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (149).png' (2,194,518)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (150).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (150).png' (2,088,012)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (149).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (149).png' (2,194,518)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (150).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (150).png' (2,088,012)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (151).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (151).png' (2,064,592)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (152).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (152).png' (2,006,400)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Plasmoid/plasmoidmale/plasmoidmale_ (38).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Plasmoid/plasmoidmale/plasmoidmale_ (38).png' (1,957,862)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (153).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (153).png' (2,107,232)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (152).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (152).png' (2,006,400)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (153).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (153).png' (2,107,232)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (151).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (151).png' (2,064,592)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (154).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (154).png' (2,032,294)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (155).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (155).png' (1,815,375)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (156).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (156).png' (1,851,926)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (154).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (154).png' (2,032,294)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (157).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (157).png' (2,167,240)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (156).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (156).png' (1,851,926)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (155).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (155).png' (1,815,375)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (158).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (158).png' (1,844,643)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (159).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (159).png' (2,140,420)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (157).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (157).png' (2,167,240)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (160).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (160).png' (1,942,191)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (158).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (158).png' (1,844,643)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (159).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (159).png' (2,140,420)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (161).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (161).png' (2,001,626)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (162).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (162).png' (2,264,983)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (160).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (160).png' (1,942,191)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (163).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (163).png' (2,226,150)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (161).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (161).png' (2,001,626)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (162).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (162).png' (2,264,983)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (164).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (164).png' (1,946,266)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (165).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (165).png' (2,179,568)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (164).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (164).png' (1,946,266)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (163).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (163).png' (2,226,150)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (165).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (165).png' (2,179,568)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (166).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (166).png' (2,053,007)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (167).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (167).png' (2,060,112)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (168).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (168).png' (2,099,086)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (166).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (166).png' (2,053,007)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (169).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (169).png' (1,976,032)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (167).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (167).png' (2,060,112)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (168).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (168).png' (2,099,086)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (170).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (170).png' (1,962,501)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (171).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (171).png' (2,068,896)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (169).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (169).png' (1,976,032)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (172).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (172).png' (1,993,527)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (170).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (170).png' (1,962,501)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (171).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (171).png' (2,068,896)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (173).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (173).png' (2,023,785)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (174).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (174).png' (1,945,538)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (172).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (172).png' (1,993,527)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (175).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (175).png' (2,082,897)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (173).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (173).png' (2,023,785)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (174).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (174).png' (1,945,538)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (177).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (177).png' (2,020,796)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (176).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (176).png' (1,925,690)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (175).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (175).png' (2,082,897)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (178).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (178).png' (1,913,766)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (176).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (176).png' (1,925,690)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (177).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (177).png' (2,020,796)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (179).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (179).png' (2,087,060)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (180).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (180).png' (1,959,605)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (178).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (178).png' (1,913,766)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (181).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (181).png' (2,153,015)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (180).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (180).png' (1,959,605)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (179).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (179).png' (2,087,060)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (183).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (183).png' (1,908,468)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (182).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (182).png' (2,055,986)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (181).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (181).png' (2,153,015)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (184).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (184).png' (1,907,556)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (183).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (183).png' (1,908,468)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (182).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (182).png' (2,055,986)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (185).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (185).png' (1,842,383)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (186).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (186).png' (1,992,888)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (184).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (184).png' (1,907,556)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (187).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (187).png' (2,070,096)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (185).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (185).png' (1,842,383)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (186).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (186).png' (1,992,888)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (187).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (187).png' (2,070,096)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (188).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (188).png' (2,147,464)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (190).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (190).png' (2,198,303)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (189).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (189).png' (2,046,388)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (189).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (189).png' (2,046,388)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (188).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (188).png' (2,147,464)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (191).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (191).png' (1,877,077)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (192).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (192).png' (1,892,872)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (190).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (190).png' (2,198,303)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (193).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (193).png' (1,921,783)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (191).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (191).png' (1,877,077)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (194).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (194).png' (2,123,577)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (193).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (193).png' (1,921,783)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (192).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (192).png' (1,892,872)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (195).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (195).png' (1,873,797)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (196).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (196).png' (1,902,532)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (194).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (194).png' (2,123,577)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (100).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (100).png' (2,123,116)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (195).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (195).png' (1,873,797)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (101).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (101).png' (1,948,935)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Aasimar/aasimarmale/aasimarmale_ (196).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Aasimar/aasimarmale/aasimarmale_ (196).png' (1,902,532)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (102).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (102).png' (1,778,097)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (100).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (100).png' (2,123,116)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (103).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (103).png' (1,735,589)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (102).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (102).png' (1,778,097)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (101).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (101).png' (1,948,935)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (104).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (104).png' (1,975,031)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (105).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (105).png' (2,121,896)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (103).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (103).png' (1,735,589)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (106).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (106).png' (1,974,810)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (105).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (105).png' (2,121,896)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (104).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (104).png' (1,975,031)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (107).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (107).png' (1,600,612)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (108).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (108).png' (1,973,237)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (106).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (106).png' (1,974,810)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (109).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (109).png' (1,848,315)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (108).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (108).png' (1,973,237)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (107).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (107).png' (1,600,612)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (110).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (110).png' (1,839,975)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (111).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (111).png' (1,721,655)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (109).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (109).png' (1,848,315)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (112).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (112).png' (1,972,156)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (111).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (111).png' (1,721,655)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (113).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (113).png' (1,808,828)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (112).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (112).png' (1,972,156)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (110).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (110).png' (1,839,975)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (114).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (114).png' (1,921,495)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (115).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (115).png' (2,172,030)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (113).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (113).png' (1,808,828)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (116).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (116).png' (1,736,026)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (114).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (114).png' (1,921,495)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (117).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (117).png' (1,745,126)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (115).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (115).png' (2,172,030)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (118).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (118).png' (2,254,629)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (116).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (116).png' (1,736,026)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (119).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (119).png' (1,884,941)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (117).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (117).png' (1,745,126)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (120).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (120).png' (1,695,901)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (118).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (118).png' (2,254,629)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (121).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (121).png' (2,073,005)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (119).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (119).png' (1,884,941)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (122).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (122).png' (1,945,426)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (120).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (120).png' (1,695,901)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (123).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (123).png' (1,999,641)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (121).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (121).png' (2,073,005)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (124).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (124).png' (2,063,501)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (122).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (122).png' (1,945,426)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (123).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (123).png' (1,999,641)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (77).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (77).png' (1,783,056)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (78).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (78).png' (1,689,115)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (124).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (124).png' (2,063,501)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (79).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (79).png' (2,017,062)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (77).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (77).png' (1,783,056)
+2025-05-13 21:37:10: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (78).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (78).png' (1,689,115)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (80).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (80).png' (1,621,534)
+2025-05-13 21:37:10: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (81).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (81).png' (2,134,500)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (79).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (79).png' (2,017,062)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (82).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (82).png' (2,139,295)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (80).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (80).png' (1,621,534)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (83).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (83).png' (2,312,747)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (81).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (81).png' (2,134,500)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (82).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (82).png' (2,139,295)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (85).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (85).png' (2,118,478)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (84).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (84).png' (1,961,480)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (83).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (83).png' (2,312,747)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (86).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (86).png' (1,941,445)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (85).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (85).png' (2,118,478)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (84).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (84).png' (1,961,480)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (87).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (87).png' (2,038,071)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (88).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (88).png' (2,208,582)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (86).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (86).png' (1,941,445)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (89).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (89).png' (2,123,357)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (87).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (87).png' (2,038,071)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (90).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (90).png' (2,093,469)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (88).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (88).png' (2,208,582)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (91).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (91).png' (1,946,073)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (89).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (89).png' (2,123,357)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (92).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (92).png' (2,017,960)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (90).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (90).png' (2,093,469)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (93).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (93).png' (1,927,883)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (91).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (91).png' (1,946,073)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (94).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (94).png' (1,764,167)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (93).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (93).png' (1,927,883)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (92).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (92).png' (2,017,960)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (95).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (95).png' (1,781,558)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (96).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (96).png' (1,904,898)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (94).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (94).png' (1,764,167)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (97).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (97).png' (1,939,206)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (96).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (96).png' (1,904,898)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (97).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (97).png' (1,939,206)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (98).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (98).png' (2,078,968)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (99).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (99).png' (1,797,693)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (95).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (95).png' (1,781,558)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (64).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (64).png' (1,901,399)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (99).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (99).png' (1,797,693)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlemale/tortlemale_ (98).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlemale/tortlemale_ (98).png' (2,078,968)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (66).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (66).png' (2,319,267)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (65).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (65).png' (1,965,652)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (64).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (64).png' (1,901,399)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (67).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (67).png' (1,977,841)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (65).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (65).png' (1,965,652)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (68).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (68).png' (1,816,045)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (67).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (67).png' (1,977,841)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (66).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (66).png' (2,319,267)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (69).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (69).png' (1,936,659)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (70).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (70).png' (1,858,989)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (68).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (68).png' (1,816,045)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (71).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (71).png' (1,986,904)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (70).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (70).png' (1,858,989)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (72).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (72).png' (1,957,469)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (69).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (69).png' (1,936,659)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (73).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (73).png' (1,940,349)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (71).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (71).png' (1,986,904)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (74).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (74).png' (1,864,685)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (73).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (73).png' (1,940,349)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (72).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (72).png' (1,957,469)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (75).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (75).png' (1,850,093)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (76).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (76).png' (1,930,632)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (74).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (74).png' (1,864,685)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (77).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (77).png' (2,013,739)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (75).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (75).png' (1,850,093)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (78).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (78).png' (2,073,833)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (76).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (76).png' (1,930,632)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (79).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (79).png' (2,001,232)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (77).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (77).png' (2,013,739)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (80).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (80).png' (2,080,887)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (78).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (78).png' (2,073,833)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (81).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (81).png' (2,000,141)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (79).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (79).png' (2,001,232)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (82).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (82).png' (2,145,371)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (80).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (80).png' (2,080,887)
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (83).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (83).png' (1,971,375)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (81).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (81).png' (2,000,141)
+2025-05-13 21:37:11: Close Modified Folder (mod-time, acl): /Plasmoid/plasmoidmale
+2025-05-13 21:37:11: > Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (84).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (84).png' (1,608,295)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (82).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (82).png' (2,145,371)
+2025-05-13 21:37:11: Close Modified Folder (mod-time, acl): /Aasimar/aasimarmale
+2025-05-13 21:37:11: Close Modified Folder (mod-time, acl): /Tortle/tortlemale
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (83).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (83).png' (1,971,375)
+2025-05-13 21:37:11: < Copy New 'C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/Tortle/tortlefemale/tortlefemale_ (84).png' -> 'C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/Tortle/tortlefemale/tortlefemale_ (84).png' (1,608,295)
+2025-05-13 21:37:11: Close Modified Folder (mod-time, acl): /Tortle/tortlefemale
+2025-05-13 21:37:11: Save State File C:/Users/jacob/Desktop/CharacterDataSets/DNDOldSchool_CharacterDataset_Custom/_gsdata_/_file_state_v4._gs
+2025-05-13 21:37:11: Save State File C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_file_state_v4._gs
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Githyanki/githyankifemale/githyankifemale_ (23).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (16).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (17).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (18).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (19).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (20).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (21).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (22).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (23).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (24).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (25).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (26).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Goblin/goblinfemale/goblinfemale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (16).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (17).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (18).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (19).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (20).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (21).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonfemale/harengonfemale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (16).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (17).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (18).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (19).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (20).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (21).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (22).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (23).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Harengon/harengonmale/harengonmale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinfemale/hobgoblinfemale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (16).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Hobgoblin/hobgoblinmale/hobgoblinmale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (16).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarfemale/kalashtarfemale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (16).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kalashtar/kalashtarmale/kalashtarmale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkufemale/kenkufemale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkufemale/kenkufemale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkufemale/kenkufemale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkufemale/kenkufemale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkufemale/kenkufemale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkufemale/kenkufemale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkufemale/kenkufemale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkufemale/kenkufemale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkufemale/kenkufemale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkufemale/kenkufemale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkufemale/kenkufemale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkufemale/kenkufemale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (16).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kenku/kenkumale/kenkumale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldfemale/koboldfemale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldfemale/koboldfemale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldfemale/koboldfemale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldfemale/koboldfemale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldfemale/koboldfemale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldfemale/koboldfemale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldfemale/koboldfemale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldfemale/koboldfemale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldfemale/koboldfemale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldfemale/koboldfemale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldfemale/koboldfemale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldfemale/koboldfemale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldfemale/koboldfemale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldmale/koboldmale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldmale/koboldmale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldmale/koboldmale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldmale/koboldmale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldmale/koboldmale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldmale/koboldmale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldmale/koboldmale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldmale/koboldmale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldmale/koboldmale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldmale/koboldmale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Kobold/koboldmale/koboldmale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (16).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (17).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (18).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (19).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (20).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (21).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (22).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (23).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (24).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (25).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (26).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (27).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (28).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninfemale/leoninfemale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (16).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Leonin/leoninmale/leoninmale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkfemale/lizardfolkfemale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (16).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Lizardfolk/lizardfolkmale/lizardfolkmale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonfemale/loxodonfemale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonfemale/loxodonfemale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonfemale/loxodonfemale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonfemale/loxodonfemale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonfemale/loxodonfemale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonfemale/loxodonfemale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonfemale/loxodonfemale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonfemale/loxodonfemale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonfemale/loxodonfemale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonfemale/loxodonfemale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonfemale/loxodonfemale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonfemale/loxodonfemale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonfemale/loxodonfemale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (16).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (17).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (18).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (19).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Loxodon/loxodonmale/loxodonmale_ (9).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (10).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (11).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (12).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (13).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (14).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (15).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (16).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (2).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (3).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (4).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (5).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (6).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (7).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (8).png
+2025-05-13 21:37:11: Deleted Recycled: C:/Users/jacob/Documents/GitHub/OldSchoolDNDDataset/_gsdata_/_saved_/Shifter/shiftermale/shiftermale_ (9).png
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Githyanki/githyankifemale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Githyanki
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Goblin/goblinfemale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Goblin
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Harengon/harengonfemale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Harengon/harengonmale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Harengon
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Hobgoblin/hobgoblinfemale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Hobgoblin/hobgoblinmale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Hobgoblin
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Kalashtar/kalashtarfemale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Kalashtar/kalashtarmale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Kalashtar
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Kenku/kenkufemale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Kenku/kenkumale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Kenku
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Kobold/koboldfemale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Kobold/koboldmale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Kobold
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Leonin/leoninfemale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Leonin/leoninmale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Leonin
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Lizardfolk/lizardfolkfemale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Lizardfolk/lizardfolkmale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Lizardfolk
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Loxodon/loxodonfemale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Loxodon/loxodonmale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Loxodon
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Shifter/shiftermale
+2025-05-13 21:37:11: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Shifter
+2025-05-13 21:37:11: == Sync Complete. Time: 00:00:01, Speed: 0.00/s, OK: 134, Errors: 0
